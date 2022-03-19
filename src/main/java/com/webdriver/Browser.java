@@ -1,4 +1,4 @@
-package com.selenide.demo.webdriver;
+package com.webdriver;
 
 import com.codeborne.selenide.WebDriverRunner;
 import org.openqa.selenium.WebDriver;

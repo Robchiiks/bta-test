@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3aec052e-7eb6-457a-9460-dd91fd10e3bc" name="Changes" comment="commit">
-      <change beforePath="$PROJECT_DIR$/bta-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bta-test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bta-test.iws" beforeDir="false" afterPath="$PROJECT_DIR$/bta-test.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenide/demo/webdriver/Browser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/webdriver/Browser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/selenide/demo/webdriver/Browser.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -282,6 +284,12 @@
       <recent name="com.mycompany.app" />
     </key>
   </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn validate" />
+      <command value="mvn test" />
+    </option>
+  </component>
   <component name="RunManager">
     <configuration selected="false" default="true" type="Applet" factoryName="Applet">
       <module name="" />
@@ -388,7 +396,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647678091540</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <created>1647679532337</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1647679532337</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
