@@ -1,2 +1,5 @@
 build/reports/
 /build/reports/tests/
+/build
+/target
+/out
