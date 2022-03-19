@@ -17,7 +17,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="bta-test" target="11" />
+      <module name="bta-test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="ExportToHTMLSettings">
