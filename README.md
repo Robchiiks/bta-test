@@ -1,3 +1,5 @@
-To run the test with chromedriver, open cmd in repo root and paste this command:
+#### To run the test with chromedriver, open cmd in repo root and paste this command:
+### 
+`mvn -Dtest=BTA_test test`
 
-mvn -Dtest=BTA_test test
+
