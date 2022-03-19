@@ -7,8 +7,11 @@
     <list default="true" id="3aec052e-7eb6-457a-9460-dd91fd10e3bc" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/bta-test.iws" beforeDir="false" afterPath="$PROJECT_DIR$/bta-test.iws" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenide/demo/webdriver/Browser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/webdriver/Browser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/selenide/demo/webdriver/Browser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycompany/app/Browser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/app/Browser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/mycompany/app/BTA_test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/app/BTA_test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -403,7 +406,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647679532337</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <created>1647680737862</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1647680737862</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
